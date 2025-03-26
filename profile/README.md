@@ -16,7 +16,8 @@ Fun & Funding is a crowdfunding and marketplace platform designed for video game
 
 ### 🚀 Game Owner  
 - 🏗 Create a funding project  
-- 📢 Promote a successfully crowdfunded project to the marketplace  
+- 📢 Promote a successfully crowdfunded project to the marketplace
+- 💵 Sell games on the marketplace 
 - 🛠 Manage projects  
 
 ### 🔧 Admin  
